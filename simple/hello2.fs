@@ -1,2 +1,4 @@
-let main = function
-printfn "Hello, world!";;
+let main = 
+    printfn "Hello, world!";;
+// main
+main
