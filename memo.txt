@@ -1,0 +1,11 @@
+・インストール
+	git clone https://github.com/fsharp/fsharp
+	./autogen.sh
+	./make
+	./make install
+
+・インタラプタ終了
+	#quit;;
+
+
+
